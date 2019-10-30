@@ -23,7 +23,7 @@ GEM
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     ice_nine (0.11.2)
-    jaro_winkler (1.5.3)
+    jaro_winkler (1.5.4)
     json_pure (1.8.1)
     memoizable (0.4.2)
       thread_safe (~> 0.3, >= 0.3.1)
